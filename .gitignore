@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#====
+.DS_Store
+.idea/
+examples/outputs/
+examples/data/
+
+manifest_vad_input.json
